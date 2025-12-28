@@ -1,10 +1,19 @@
 # marketing-customer-analysis-dashboard
-Dashboard Analisis Pelanggan menampilkan segmentasi dan pola belanja, meliputi:
-1. Jumlah pelanggan & rata-rata pendapatan (Average Income)
-2. Distribusi pelanggan berdasarkan Country, Education, dan Marital Status
-3. Total pendapatan per negara
-4. Pola pengeluaran tiap produk berdasarkan pendidikan & status, dengan filter Country
-5. Kanal pembelian terbanyak per wilayah
-6. Tren pelanggan baru per bulan/tahun
+Repository ini berisi analisis data marketing pelanggan yang bertujuan untuk
+memahami segmentasi pelanggan dan pola perilaku belanja berdasarkan data demografis,
+geografis, dan waktu pendaftaran pelanggan.
+
+## Fitur Analisis
+- Total dan rata-rata income pelanggan
+- Distribusi pelanggan berdasarkan negara, pendidikan, dan status pernikahan
+- Total income setiap negara
+- Pola pengeluaran pelanggan berdasarkan kategori produk
+- Kanal pembelian terbanyak di setiap negara
+- Tren pendaftaran pelanggan per bulan dan tahun
+- Produk favorit berdasarkan periode pendaftaran pelanggan
+
+## Tools
+- Microsoft Excel (Pivot Table & Dashboard)
+- Data Visualization
    
 ![Dashboard Visualisasi](dashboard_visualisasi.jpeg)
