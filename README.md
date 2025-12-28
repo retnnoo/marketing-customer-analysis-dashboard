@@ -7,7 +7,7 @@ geografis, dan waktu pendaftaran pelanggan.
 - Jumlah pelanggan & rata-rata pendapatan (Average Income)
 - Distribusi pelanggan berdasarkan Country, Education, dan Marital Status
 - Total pendapatan per negara
-- Pola pengeluaran tiap produk berdasarkan pendidikan & status, dengan filter Country
+- Pola pengeluaran tiap produk berdasarkan Education & Marital Status, dengan filter Country
 - Kanal pembelian terbanyak di setiap negara
 - Tren pendaftaran pelanggan per bulan dan tahun
 - Produk favorit berdasarkan periode pendaftaran pelanggan
